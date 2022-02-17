@@ -1,4 +1,4 @@
-# c-
+# c++
 Computer Graphics using glut library
 
 // glsl file not included 
